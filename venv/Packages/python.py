@@ -5,3 +5,6 @@ try:
     driver.get("https://www.facebook.com")
 except IOError:
     print('Driver not found')
+
+    print(2*4)
+    print(2899)
